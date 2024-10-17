@@ -12,14 +12,14 @@
 ## 三、效果展示  
 ### 1. 用户端（小程序）
 <div style="display:flex;">
-<img src="./preview/1.jpg" style="width:33%">
-<img src="./preview/2.jpg" style="width:33%">
-<img src="./preview/3.jpg" style="width:33%;">
+<img src="./preview/1.jpg" style="width:32%">
+<img src="./preview/2.jpg" style="width:32%">
+<img src="./preview/3.jpg" style="width:32%;">
 </div>
 <div style="display:flex;">
-<img src="./preview/4.jpg" style="width:33%">
-<img src="./preview/5.jpg" style="width:33%">
-<img src="./preview/6.jpg" style="width:33%;">
+<img src="./preview/4.jpg" style="width:32%">
+<img src="./preview/5.jpg" style="width:32%">
+<img src="./preview/6.jpg" style="width:32%;">
 </div>
 
 ### 2. 后台管理（管理端）
