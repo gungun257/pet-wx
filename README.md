@@ -4,6 +4,7 @@
 1. 用户：发布需要被领养的宠物，也可以领养宠物，用户可以审核领养人的信息，是否通过领养，查看科普知识，分享宠物的日常等等 
 2. 管理员：用户管理，宠物管理，知识管理等等
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 ## 二、技术栈
 1. 前端：vue框架，微信原生小程序
 2. 后端：nodejs express框架/Java springboot框架
