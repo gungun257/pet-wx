@@ -30,4 +30,4 @@
 3. 扫一扫加我微信好友吧，请备注 宠物领养小程序源码获取
 <img src="./preview/wx.jpg" style="width: 200px;">
 
-> [点我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc# 《计算机项目列表大全》) 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
